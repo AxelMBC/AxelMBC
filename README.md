@@ -37,7 +37,7 @@
 
 ### 🔭 En qué ando · What I'm building
 
-**🥊 [Combat Atlas](https://github.com/axelbarraza)** — Plataforma de visualización de datos de deportes de combate. Un mapa interactivo del mundo con páginas de detalle por país. React 19 + TypeScript + Vite, MapLibre para el mapa, MongoDB con esquema bilingüe `{es, en}`, desplegado en Vercel. Mi laboratorio vivo de *spec-driven development*.
+**🥊 [Combat Atlas](https://combat-atlas.vercel.app/)** — Plataforma de visualización de datos de deportes de combate. Un mapa interactivo del mundo con páginas de detalle por país. React 19 + TypeScript + Vite, MapLibre para el mapa, MongoDB con esquema bilingüe `{es, en}`, desplegado en Vercel. Mi laboratorio vivo de *spec-driven development*.
 
 > *A combat sports data platform — interactive world map, per-country pages, and my live SDD laboratory.*
 
